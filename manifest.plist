@@ -18,13 +18,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>jp.atoms.TenkenNyu</string>
+				<string>jp.atoms.KyoukyuNyu</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>点検作業</string>
+				<string>第一供給</string>
 			</dict>
 		</dict>
 	</array>
